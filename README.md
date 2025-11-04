@@ -1,9 +1,8 @@
+# HJ--CampusLynk Platform Development
 
-  # CampusLink Platform Development
+This is the repository for the CampusLynk project.
 
-  ## Running the code
+## Running the Code
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+1. Run `npm i` to install the dependencies.
+2. Run `npm run dev` to start the development server.
